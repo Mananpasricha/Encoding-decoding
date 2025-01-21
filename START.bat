@@ -16,7 +16,7 @@ if %errorlevel% neq 0 (
 )
 
 REM Run the Python script
-python main.py
+python MAIN.py
 if %errorlevel% neq 0 (
     echo An error occurred while running the script.
     pause
