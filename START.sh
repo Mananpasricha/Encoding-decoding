@@ -22,5 +22,5 @@ loading_animation
 
 
 #runing the script
-python3 test.py 
+python3 MAIN.py 
 
