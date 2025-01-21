@@ -19,7 +19,7 @@ FOR USAGE IN LINUX:-      NOTE: MAKE SURE PYTHON3 IS INSTALLED
 chmod +x START.sh
 ./START.sh
 or
-python3 Encoding&Decoding.py
+python3 main.py
 or
 python3 launcher.py
 
@@ -38,3 +38,12 @@ Run the script and choose the desired option (1 for encoding, 2 for decoding).
 Enter the key and the text to be processed.
 
 The script will output the encoded or decoded text based on your choice.
+
+
+THIS PROJECT /SCRIPT IS MADE FOR EDUCATIONAL PURPOSE AND IS NOT RESPONSIBLE FOR ANY ILLEGAL USE!
+THIS SCRIPT IS OWNED MY MANAN PASRICHA 
+CONTACT DETAILS / SOCIAL MEDIA HANDLES
+mail id ----Manan010805@gmail.com
+linkedin------www.linkedin.com/in/manan-pasricha-a1ab422a0
+Feel free to contact me for any work, collaboration, or queries.
+THANKYOU!
