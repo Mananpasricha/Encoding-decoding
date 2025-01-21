@@ -8,7 +8,7 @@ def run_script():
         subprocess.run(["python", "script.py"], check=True)
     elif platform.system() == "Linux":
         # Run Python script on Linux
-        subprocess.run(["python3", "script.py"], check=True)
+        subprocess.run(["python3", "MAIN.py"], check=True)
     else:
         print("Unsupported OS")
 
